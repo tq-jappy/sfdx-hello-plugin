@@ -1,0 +1,26 @@
+{
+  "name": "sfdx-hello-plugin",
+  "version": "1.0.0",
+  "description": "A sample plugin for the Salesforce CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tq-jappy/sfdx-hello-plugin.git"
+  },
+  "keywords": [
+    "force.com",
+    "salesforce",
+    "salesforce-dx",
+    "sfdx",
+    "oss"
+  ],
+  "author": "Takumi Endo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tq-jappy/sfdx-hello-plugin/issues"
+  },
+  "homepage": "https://github.com/tq-jappy/sfdx-hello-plugin#readme"
+}
